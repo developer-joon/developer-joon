@@ -20,10 +20,10 @@
 
 | | 회사 | 역할 |
 |:---:|:---|:---|
-| 🔵 | **CJ ENM** *(현재)* | Backend / Platform Engineer |
-| ⚪ | **이랜드 이노플** | Backend Engineer |
-| ⚪ | **다나와** | Backend Engineer |
-| ⚪ | **지앤클라우드** | Cloud / Backend Engineer |
+| 🔵 | **CJ ENM** *(현재)* | AI Engineer / Platform Architecture ( DevOps / SRE / Tech Support ) |
+| ⚪ | **이랜드 이노플** | Display Backend Deveploer / Search Engineer  |
+| ⚪ | **다나와** | Search Engineer |
+| ⚪ | **지앤클라우드** | Cloud / DevOps Engineer / Search Engineer / BlockChain(Solidity, web3.js) Developer |
 
 </div>
 
